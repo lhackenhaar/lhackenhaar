@@ -16,7 +16,7 @@ Passionate about crafting user-friendly web applications, I bring a solid founda
 <img src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
-<br>
+
 <h3>General Knowledge</h3>
 <div class= position: left>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -28,6 +28,9 @@ Passionate about crafting user-friendly web applications, I bring a solid founda
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 </div>
-<br>
+
 <h3>Contact me</h3>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"(https://www.linkedin.com/in/leonardo-hackenhaar-978061174)/>
+<a href="https://www.linkedin.com/in/leonardo-hackenhaar-978061174" target="">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
