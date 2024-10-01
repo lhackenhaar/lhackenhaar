@@ -6,3 +6,4 @@ Passionate about crafting user-friendly web applications, I bring a solid founda
 <h3>Technical Knowledge</h3>
 <br>
 <img src= https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/>
+<img src= https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/>
